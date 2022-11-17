@@ -17,3 +17,13 @@
 - cartpole_dqn.pt 保存的模型,可以用于保持平衡杆的稳定
 - dqn_test.py 检测模型效果的文件
 - dqn_train.py 训练模型的文件
+
+
+
+## 参考:
+
+主要参考链接如下,对代码做了小改动
+
+[https://zhuanlan.zhihu.com/p/117287339](https://zhuanlan.zhihu.com/p/117287339)
+
+## 感谢点赞和⭐
