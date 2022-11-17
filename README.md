@@ -11,3 +11,9 @@
 - gymnasium （gym库的升级版，openai新推出的库用于代替gym）
 - numpy （深度强化学习中常用到的库）
 
+
+## 文件说明：
+
+- cartpole_dqn.pt 保存的模型,可以用于保持平衡杆的稳定
+- dqn_test.py 检测模型效果的文件
+- dqn_train.py 训练模型的文件
